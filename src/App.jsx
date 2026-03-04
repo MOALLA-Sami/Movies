@@ -8,6 +8,7 @@ import { MovieProvider } from './contexts/MovieContext'
 import WatchLater from './pages/WatchLater'
 import Watched from './pages/Watched'
 import Suggestions from './pages/Suggestions'
+//tttttt
 function App() {
   const [count, setCount] = useState(0)
 
